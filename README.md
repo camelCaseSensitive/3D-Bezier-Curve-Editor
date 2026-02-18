@@ -6,6 +6,6 @@ Create and edit 3D Bezier curves in the browser, export the array of anchor and 
 
 <p align="left">
   <a href="https://camelcasesensitive.github.io/3D-Bezier-Curve-Editor/">
-    <img src="./BezierEditor.png" alt="BezierCurveEditor" title="Bezier Curve Editor" width="600">
+    <img src="./Bezier.png" alt="BezierCurveEditor" title="Bezier Curve Editor" width="600">
   </a>
 </p>
